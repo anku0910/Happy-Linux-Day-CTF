@@ -1,1 +1,0 @@
-# Happy-Linux-Day-CTF
